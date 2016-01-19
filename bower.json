@@ -1,6 +1,6 @@
 {
   "name": "ember",
-  "version": "1.12.1-ibotta.ec43132f",
+  "version": "1.12.1.ec43132f",
   "main": [
     "./ember.debug.js"
   ],
