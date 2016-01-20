@@ -1,1 +1,1 @@
-Ember 1.12.1 + link-to component integration test fix.
+Ember 1.12.2 + link-to component integration test fix.
